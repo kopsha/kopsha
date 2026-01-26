@@ -1,4 +1,4 @@
-# Hi there, I'm Florin 👋
+# Hi there 👋
 
 I am an **extreme programmer** with a soft spot for clean code and delivering on time.
 I test every function like it owes me money — nothing ships without proof.

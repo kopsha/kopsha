@@ -2,16 +2,17 @@
 
 > I hate code and I want as little of it as possible in our products.
 
-My favourite kind of pull request deletes an abstraction and makes the next
-change easier. Fewer lines are a bonus. One fewer thing to understand is
-the real win.
+My favourite pull requests leave you with less code to read and one fewer
+thing to understand.
 
-I care about design and architecture because I want the code to be easy to
-change. Sometimes the whole design is one function. I like those days.
+I care about design and architecture because I want the next change to be
+easy.  
+Sometimes the whole design is one function. I like those days.
 
-I aim for full test coverage. I want to know what happens when the input is
-empty, the dependency fails, or the same request arrives twice. Those tests
-give me the confidence to keep simplifying.
+I aim for full test coverage. Empty input, a failed dependency, a request
+that arrives twice.  
+I want a test for each so I can keep simplifying with
+confidence.
 
 Happiest when the diff is red and the tests are green.
 

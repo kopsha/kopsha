@@ -15,7 +15,7 @@ give me the confidence to keep simplifying.
 
 Happiest when the diff is red and the tests are green.
 
----
+
 
 ## 💻 What I Do
 
